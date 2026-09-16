@@ -10,4 +10,4 @@ class Solution:
                 current = nums[i]
             result = max(result,current)
         return result
-        
+    
